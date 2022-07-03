@@ -1,5 +1,6 @@
 import { ThemeProvider, createTheme} from '@mui/material'
-import AddPost from "./app/pages/post/post-detail/post-detail";
+import AddPost from "./app/pages/post/add-post/post-detail";
+
 
 const theme = createTheme({
   palette:{
